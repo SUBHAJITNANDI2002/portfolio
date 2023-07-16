@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f6bf4b5d.css",
+    "main.js": "/portfolio/static/js/main.27aa19ce.js",
+    "static/media/Subhajit_passport.JPG": "/portfolio/static/media/Subhajit_passport.b53b7ed2daf2b1a72889.JPG",
+    "index.html": "/portfolio/index.html",
+    "main.f6bf4b5d.css.map": "/portfolio/static/css/main.f6bf4b5d.css.map",
+    "main.27aa19ce.js.map": "/portfolio/static/js/main.27aa19ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6bf4b5d.css",
+    "static/js/main.27aa19ce.js"
+  ]
+}
